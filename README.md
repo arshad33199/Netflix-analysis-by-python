@@ -7,4 +7,5 @@ Here i m doing analysis of Netflix Data.
     
     
     
-    ![STK072_VRG_Illo_N_Barclay_8_netflix](https://github.com/arshad33199/Netflix-analysis-by-python/assets/142779412/d6c2d700-f875-44e8-8df8-174f46ba507a)
+   
+![Android_Collage_1920x1080_EMEA_Poland_PL__1_](https://github.com/arshad33199/Netflix-analysis-by-python/assets/142779412/d6560e41-0ee4-48ec-97f4-f10ca5a6d321)
